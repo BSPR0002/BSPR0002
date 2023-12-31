@@ -17,6 +17,6 @@ A regular guy with ambitious thoughts, but unable to bring them to fruition...
 
 Likes ACG, knows web tech. Maybe learn more in the future.
 
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/BSPR0002-github-readme) since 2024.
-
 ![status](https://github-readme-stats.vercel.app/api?username=BSPR0002&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false)
+
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BSPR0002&layout=compact)
