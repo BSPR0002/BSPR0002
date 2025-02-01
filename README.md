@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Who's this?
 A regular guy with ambitious thoughts, but unable to bring them to fruition...
 
-Likes ACG, knows web tech. Maybe learn more in the future.
+Favor is ACG, knows web tech. Maybe learn more in the future.
 
 ![status](https://github-readme-stats.vercel.app/api?username=BSPR0002&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false)
 
